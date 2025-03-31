@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: belinore <belinore@student.42.fr>          +#+  +:+       +#+         #
+#    By: belinore <belinore@student.42lisboa.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/11/19 14:58:40 by belinore          #+#    #+#              #
-#    Updated: 2024/12/10 20:03:16 by belinore         ###   ########.fr        #
+#    Updated: 2025/03/31 22:06:11 by belinore         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
