@@ -1,6 +1,6 @@
 # 42-ft_printf
 
-> A 42 project to recreate the standard C `printf` function with formatted output and variable argument handling.
+A 42 project to recreate the standard C `printf` function with formatted output and variable argument handling.
 
 Function prototype:
 ```c
