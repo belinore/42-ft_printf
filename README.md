@@ -15,13 +15,13 @@ int ft_printf(const char *format, ...);
 - `%x` / `%X` — Hexadecimal integer
 - `%%` — Literal percent sign
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - Understanding of variadic functions
 - Handling and formatting various data types
 - Building modular and reusable output functions
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 42-ft_printf/
@@ -32,7 +32,7 @@ int ft_printf(const char *format, ...);
 └── README.md          # Project documentation
 ```
 
-## 🛠️ Compilation
+## 🛠Compilation
 
 To compile the library:
 
@@ -55,7 +55,7 @@ Then compile with:
 gcc your_file.c -L. -lftprintf
 ```
 
-## 📌 Notes
+## Notes
 
 > ⚠️ **Norminette Compliance**  
 > This project follows the [42 Norminette](https://github.com/42School/norminette) — a strict C coding style guide. It enforces rules like max 25 lines per function, separate declarations/assignments, and consistent formatting. Code is written for readability and structure over brevity.
